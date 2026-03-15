@@ -16,7 +16,7 @@ data/chroma_db/
 
 # ── Raw PDFs ──────────────────────────────────────────────────────────────────
 # Too large for git. Add your own PDFs to data/raw/ after cloning.
-data/raw/
+# data/raw/
 
 # ── Jupyter Checkpoints ───────────────────────────────────────────────────────
 .ipynb_checkpoints/
